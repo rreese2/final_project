@@ -1,0 +1,12 @@
+name: final_project
+title: final_project
+username:
+account: rreese2
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1599811
+bundleId: 2674012
+url: https://rreese2.shinyapps.io/final_project/
+when: 1576543725.87726
+asMultiple: FALSE
+asStatic: FALSE
